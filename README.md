@@ -1,7 +1,7 @@
 # SystemVerilog Style Guide
 
 created: July 11, 2024<br\>
-updated: July 11, 2024<br\>
+updated: July 13, 2024<br\>
 contributors:
   * @jonmayer
 
